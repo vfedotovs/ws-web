@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  streamlit:
+    # image: vfedotovsdocker/st-web:latest-arm  # Use the specified Docker image
+    image: st-web-3:latest-arm # Use the specified Docker image
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app:/app  # Mount your Streamlit app directory into the container
+    environment:
+      - STREAMLIT_SERVER_PORT=8501  # Set the port for the Streamlit server
+
