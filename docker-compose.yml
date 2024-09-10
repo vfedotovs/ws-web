@@ -1,0 +1,15 @@
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material  # Use the MkDocs Material Docker image
+    container_name: mkdocs_container  # Optional: name the container
+    ports:
+      - "8000:8000"  # Map port 8000 of the container to port 8000 on the host
+    volumes:
+      - .:/docs  # Mount the current directory to /docs inside the container
+    stdin_open: true  # Keep stdin open to enable interactive mode
+    tty: true  # Allocate a pseudo-TTY for interactive mode
+    restart: always  # Optional: always restart the container if it stops
+
+    # Optional: Command to run within the container
+    # command: mkdocs serve -a 0.0.0.0:8000
+
