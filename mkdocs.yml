@@ -1,7 +1,7 @@
 # Project information
-site_name: My Project Documentation
-site_description: Comprehensive documentation for My Project
-site_author: Your Name
+site_name: Web Scraper Documentation
+site_description: Comprehensive documentation for Web Scraper
+site_author: Valentins Fedotovs
 
 # Site URL for SEO (optional)
 site_url: https://example.com/docs/
@@ -69,15 +69,13 @@ extra_javascript:
   - js/custom.js
 
 # Repository link (optional)
-repo_url: https://github.com/username/repository-name
+repo_url: https://github.com/vfedotovs/ws-web
 repo_name: GitHub
 
 # Additional configuration options
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/username
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/username
+      link: https://github.com/vfedotovs
 
 
