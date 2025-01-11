@@ -36,7 +36,7 @@ To get started with **My Project**, follow the steps below:
 
 ## Contributing
 
-Interested in contributing to **My Project**? Check out our [contribution guidelines](about/contributing.md) and join our community of contributors!
+Interested in contributing to **Web Scraper**? Check out our [contribution guidelines](about/contributing.md) and join our community of contributors!
 
 ## Support
 
