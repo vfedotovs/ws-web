@@ -42,7 +42,6 @@ nav:
       - Endpoints: api-reference/endpoints.md
       - Authentication: api-reference/authentication.md
   - About:
-      - Team: about/team.md
       - Contact: about/contact.md
 
 # Markdown extensions
