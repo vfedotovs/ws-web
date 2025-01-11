@@ -4,7 +4,7 @@ site_description: Comprehensive documentation for Web Scraper
 site_author: Valentins Fedotovs
 
 # Site URL for SEO (optional)
-site_url: https://example.com/docs/
+site_url: https://ws-web.pages.dev/
 
 # Theme settings
 theme:
