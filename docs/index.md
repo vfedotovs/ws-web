@@ -1,18 +1,21 @@
-# Welcome to My Project
+# Welcome to Web Scraper 
 
-Welcome to the official documentation for **My Project**! This guide will help you get started, understand the core features, and explore advanced topics.
+Welcome to the official documentation for **Web Scraper**! This guide will help you get started, understand the core features, and explore advanced topics.
 
-![My Project Logo](images/logo.png)
 
 ## Overview
 
-**My Project** is a powerful and user-friendly tool designed to help you achieve [specific goal or function]. Whether you're a beginner or an experienced user, this documentation will guide you through everything you need to know.
+Web Scraper is a comprehensive tool designed to scrape property data from websites, store it in a database, generate email reports, and export the data in CSV format. The tool also supports seamless integration with cloud storage platforms like Google Drive and AWS S3 for efficient data management.
 
 ## Key Features
 
-- **Feature 1**: Description of the first key feature.
-- **Feature 2**: Description of the second key feature.
-- **Feature 3**: Description of the third key feature.
+- Web Scraping: Extract property data from ss.lv website using robust scraping framework BeautifulSoup.
+- Database Storage: Save the scraped data into a relational database PostgreSQL.
+- Email Notifications: Automatically send periodic email reports containing summary data (Requires Sendgrid API key).
+- CSV Export: Export the scraped data as CSV files for easy sharing and analysis.
+- Automated Scheduling: Schedule scraping and data processing tasks using cron jobs or a task scheduler.
+- Cloud Integration:
+Store data securely in AWS S3 (Requires AWS account).
 
 Explore the [User Guide](user-guide/overview.md) to learn more about these features in detail.
 
