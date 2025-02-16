@@ -4,7 +4,7 @@ site_description: Comprehensive documentation for Web Scraper
 site_author: Valentins Fedotovs
 
 # Site URL for SEO (optional)
-site_url: https://ws-web.pages.dev/
+site_url: https://propertydata.lv/
 
 # Theme settings
 theme:
@@ -32,15 +32,11 @@ theme:
 nav:
   - Home: index.md
   - Getting Started:
-      - Introduction: getting-started/introduction.md
       - Installation: getting-started/installation.md
   - User Guide:
       - Overview: user-guide/overview.md
       - Features: user-guide/features.md
       - FAQ: user-guide/faq.md
-  - API Reference:
-      - Endpoints: api-reference/endpoints.md
-      - Authentication: api-reference/authentication.md
   - About:
       - Contact: about/contact.md
 
