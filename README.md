@@ -1,14 +1,14 @@
-# Web Scraper API Documentation
+# Web Scraper Documentation
 
-Welcome to the **Web Scraper API** documentation! This project provides comprehensive details about the Web Scraper API, enabling developers to easily integrate and utilize its features.
+Welcome to the **Web Scraper** documentation! This project provides comprehensive details about the Web Scraper, enabling developers to easily integrate and utilize its features.
 
 ## 📖 Documentation
 
-The full API documentation is publicly available at:
+The full documentation is publicly available at:
 
-➡️ [Web Scraper API Documentation](https://ws-web.pages.dev/)
+➡️ [Web Scraper Documentation](https://propertydata.lv/)
 
-Explore all available endpoints, request examples, and best practices for using the Web Scraper API.
+Explore all best practices for using the Web Scraper.
 
 ---
 
@@ -19,15 +19,15 @@ This project is hosted on **Cloudflare Pages** and built using **Material for Mk
 ### Key Features:
 - **Responsive Design:** Optimized for all device sizes.
 - **Elegant UI:** Clean and modern design powered by Material for MkDocs.
-- **Detailed API Guides:** Step-by-step instructions, code samples, and explanations for every endpoint.
+- **Detailed Installation Guides:** Step-by-step instructions for installation and configuration.
 - **Searchable Content:** Instant search functionality for quick access to topics.
 
 ---
 
 ## 🛠️ Getting Started
 
-To access the Web Scraper API:
-1. Visit the [documentation](https://ws-web.pages.dev/).
+To access the Web Scraper:
+1. Visit the [documentation](https://propertydata.lv/).
 2. Follow the guides to set up your integration.
 
 For feedback or issues, feel free to open an issue or contribute to this repository.
@@ -57,5 +57,5 @@ For questions, feedback, or support, please contact at [vfedotovs@outlook.com](m
 
 ---
 
-Thank you for using the Web Scraper API!
+Thank you for using the Web Scraper!
 
