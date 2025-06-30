@@ -28,7 +28,7 @@ This project is hosted on **Cloudflare Pages** and built using **Material for Mk
 
 To access the Web Scraper:
 1. Visit the [documentation](https://propertydata.lv/).
-2. Follow the guides to set up your integration.
+2. Follow the [How-to-setup](./HOW-TO-SETUP.md) guide to set up your environment.
 
 For feedback or issues, feel free to open an issue or contribute to this repository.
 
