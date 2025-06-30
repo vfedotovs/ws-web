@@ -6,18 +6,9 @@ site_author: Valentins Fedotovs
 # Site URL for SEO (optional)
 site_url: https://propertydata.lv/
 
-# Theme settings
+
 theme:
   name: material
-  # logo: images/logo.png  # Path to your logo image
-  # favicon: images/favicon.ico  # Path to your favicon
-  # palette:
-  #   primary: 'navy'  # Change from 'blue' to 'navy'
-  #   accent: 'light blue'
-  # font:
-  #   text: 'Roboto'
-  #   code: 'Roboto Mono'
-
   palette:
     scheme: slate  # Use the 'slate' scheme for a dark theme
     primary: indigo
@@ -28,7 +19,8 @@ theme:
     toggle:
       icon: material/weather-night  # Icon for dark mode
       name: Switch to dark mode
-# Navigation structure
+
+
 nav:
   - Home: index.md
   - Getting Started:
@@ -40,7 +32,6 @@ nav:
   - About:
       - Contact: about/contact.md
 
-# Markdown extensions
 markdown_extensions:
   - admonition  # For notes, warnings, etc.
   - toc:        # Table of contents
@@ -50,24 +41,26 @@ markdown_extensions:
   - pymdownx.superfences  # Enhanced code block handling
   - pymdownx.betterem:    # Improved emphasis handling (e.g., *italic*)
 
-# Plugins (optional)
 plugins:
   - search  # Built-in search functionality
-  # - mkdocs-mermaid2-plugin  # For Mermaid diagrams
-  # - mkdocs-material-extensions  # Additional features for Material theme
-
-# Extra CSS and JavaScript (optional)
-extra_css:
-  - css/custom.css
+  - charts
 
 extra_javascript:
-  - js/custom.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
 
-# Repository link (optional)
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+
+
 repo_url: https://github.com/vfedotovs/ws-web
 repo_name: GitHub
 
-# Additional configuration options
 extra:
   social:
     - icon: fontawesome/brands/github
