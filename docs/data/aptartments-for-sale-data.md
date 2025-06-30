@@ -1,3 +1,7 @@
+## This is sample bar chart 
+
+
+```vegalite
 {
   "description": "A simple bar chart with embedded data.",
   "data": {
@@ -13,4 +17,8 @@
     "y": {"field": "b", "type": "quantitative"}
   }
 }
+```
+
+
+
 
