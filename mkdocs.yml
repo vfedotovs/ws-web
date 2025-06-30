@@ -29,6 +29,8 @@ nav:
       - Overview: user-guide/overview.md
       - Features: user-guide/features.md
       - FAQ: user-guide/faq.md
+  - Data Charts:
+      - data/aptartments-for-sale-data.md
   - About:
       - Contact: about/contact.md
 
