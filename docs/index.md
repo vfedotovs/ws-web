@@ -40,7 +40,7 @@ Interested in contributing to **Web Scraper**? Check out our [contribution guide
 
 ## Support
 
-If you have any questions or need help, feel free to [contact us](about/contact.md) or visit our [support forum](https://example.com/forum).
+If you have any questions or need help, feel free to [contact us](about/contact.md).
 
 ## License
 
