@@ -53,7 +53,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📧 Contact
 
-For questions, feedback, or support, please contact at [vfedotovs@outlook.com](mailto:vfedotovs@outlook.com).
+For questions, feedback, or support, please contact at [info@propertydata.lv](mailto:info@propertydata.lv).
 
 ---
 
