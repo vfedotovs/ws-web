@@ -30,7 +30,7 @@ nav:
       - Features: user-guide/features.md
       - FAQ: user-guide/faq.md
   - Data Charts:
-      - data/aptartments-for-sale-data.md
+      - data/apartments-for-sale-data.md
   - About:
       - Contact: about/contact.md
 
@@ -67,5 +67,4 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/vfedotovs
-
 

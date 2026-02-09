@@ -1,4 +1,4 @@
-## Summary KPIs
+## Summary KPIs for Ogre city apartments
 
 ```vegalite
 {
@@ -14,7 +14,7 @@
 }
 ```
 
-## Apartments listed and removed per year
+## Apartments listed and removed per year for Ogre city
 
 ```vegalite
 {
@@ -38,7 +38,7 @@
 }
 ```
 
-## Apartments removed per month
+## Apartments removed per month in Ogre city
 
 ```vegalite
 {
@@ -62,7 +62,7 @@
 }
 ```
 
-## Days listed distribution
+## Days listed distribution 
 
 ```vegalite
 {
@@ -86,7 +86,7 @@
 }
 ```
 
-## Median price per sqm by year
+## Median price per sqm by year for Ogre city apartments
 
 ```vegalite
 {
