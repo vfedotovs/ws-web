@@ -1,0 +1,32 @@
+[
+  {
+    "year": "2021",
+    "median_sqm_price": 1091.0,
+    "sample_size": 175
+  },
+  {
+    "year": "2022",
+    "median_sqm_price": 1100.0,
+    "sample_size": 535
+  },
+  {
+    "year": "2023",
+    "median_sqm_price": 1032.5,
+    "sample_size": 328
+  },
+  {
+    "year": "2024",
+    "median_sqm_price": 1041.0,
+    "sample_size": 804
+  },
+  {
+    "year": "2025",
+    "median_sqm_price": 1095.0,
+    "sample_size": 473
+  },
+  {
+    "year": "2026",
+    "median_sqm_price": 1115.0,
+    "sample_size": 49
+  }
+]

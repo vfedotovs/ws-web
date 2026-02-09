@@ -1,0 +1,78 @@
+[
+  {
+    "bin_label": "0-9",
+    "count": 296
+  },
+  {
+    "bin_label": "10-19",
+    "count": 632
+  },
+  {
+    "bin_label": "20-29",
+    "count": 668
+  },
+  {
+    "bin_label": "30-39",
+    "count": 156
+  },
+  {
+    "bin_label": "40-49",
+    "count": 438
+  },
+  {
+    "bin_label": "50-59",
+    "count": 46
+  },
+  {
+    "bin_label": "60-69",
+    "count": 29
+  },
+  {
+    "bin_label": "70-79",
+    "count": 21
+  },
+  {
+    "bin_label": "80-89",
+    "count": 35
+  },
+  {
+    "bin_label": "90-99",
+    "count": 11
+  },
+  {
+    "bin_label": "100-109",
+    "count": 10
+  },
+  {
+    "bin_label": "110-119",
+    "count": 3
+  },
+  {
+    "bin_label": "120-129",
+    "count": 8
+  },
+  {
+    "bin_label": "130-139",
+    "count": 2
+  },
+  {
+    "bin_label": "140-149",
+    "count": 1
+  },
+  {
+    "bin_label": "150-159",
+    "count": 1
+  },
+  {
+    "bin_label": "160-169",
+    "count": 5
+  },
+  {
+    "bin_label": "280-289",
+    "count": 1
+  },
+  {
+    "bin_label": "440-449",
+    "count": 1
+  }
+]

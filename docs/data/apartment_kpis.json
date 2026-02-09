@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Total removed listings",
+    "value": "2364"
+  },
+  {
+    "label": "Median days listed",
+    "value": "27"
+  },
+  {
+    "label": "Median price",
+    "value": "52000"
+  },
+  {
+    "label": "Median sqm price",
+    "value": "1076.00"
+  },
+  {
+    "label": "Listed date range (min)",
+    "value": "2021-07-11"
+  },
+  {
+    "label": "Removed date range (max)",
+    "value": "2026-02-09"
+  }
+]
